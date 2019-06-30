@@ -1,5 +1,5 @@
 # Association-Rule-Learning
-A Practice section from course on Udemy
+A Practice section from course on Udemy. Here, we have to optimize the sales of products of a grocery store. Use Association rule learning to know where to place the products in the store.
 
 Association rule learning is a rule-based machine learning method for discovering interesting relations between variables in large 
 databases. This concept can be best understood with the supermarket example. In a supermarket, they infer data about the customer 
